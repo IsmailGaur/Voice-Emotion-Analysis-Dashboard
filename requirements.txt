@@ -15,5 +15,9 @@ torch==2.0.1+cpu
 
 transformers==4.30.0
 
-setuptools
+setuptools<70
 wheel
+pip
+
+
+
